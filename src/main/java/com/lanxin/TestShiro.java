@@ -21,6 +21,8 @@ SimpleAccountRealm simpleAccountRealm=new SimpleAccountRealm();
     {
 
         simpleAccountRealm.addAccount("admin","123","user:select","user:update");
+        // 在Gihub 做一次更改
+
 
     }
 
