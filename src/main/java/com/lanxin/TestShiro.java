@@ -22,6 +22,9 @@ SimpleAccountRealm simpleAccountRealm=new SimpleAccountRealm();
 
         simpleAccountRealm.addAccount("admin","123","user:select","user:update");
         System.out.println("idea 中的更改");
+        // 在Gihub 做一次更改
+
+
     }
 
     @Test
